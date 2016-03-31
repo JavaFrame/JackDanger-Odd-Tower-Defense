@@ -1,0 +1,90 @@
+{
+"frames": {
+	"JD.png": {
+		"frame": {"x":0, "y":1281, "w":163, "h":70},
+		"spriteSourceSize": {"x":0,"y":0,"w":163,"h":70},
+		"sourceSize": {"w":163,"h":70}
+	},
+	"aim_circle.png": {
+		"frame": {"x":653, "y":991, "w":400, "h":400},
+		"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+		"sourceSize": {"w":400,"h":400}
+	},
+	"bullet.png": {
+		"frame": {"x":0, "y":1352, "w":33, "h":33},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":33},
+		"sourceSize": {"w":33,"h":33}
+	},
+	"earth.png": {
+		"frame": {"x":991, "y":0, "w":177, "h":177},
+		"spriteSourceSize": {"x":0,"y":0,"w":177,"h":177},
+		"sourceSize": {"w":177,"h":177}
+	},
+	"enemy_bullet.png": {
+		"frame": {"x":34, "y":1352, "w":33, "h":33},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":33},
+		"sourceSize": {"w":33,"h":33}
+	},
+	"enenmy_aim_cirlce.png": {
+		"frame": {"x":0, "y":0, "w":990, "h":990},
+		"spriteSourceSize": {"x":0,"y":0,"w":990,"h":990},
+		"sourceSize": {"w":990,"h":990}
+	},
+	"fence.png": {
+		"frame": {"x":239, "y":1281, "w":58, "h":60},
+		"spriteSourceSize": {"x":1,"y":0,"w":60,"h":60},
+		"sourceSize": {"w":60,"h":60}
+	},
+	"fire_cross.png": {
+		"frame": {"x":298, "y":1281, "w":55, "h":55},
+		"spriteSourceSize": {"x":2,"y":3,"w":60,"h":60},
+		"sourceSize": {"w":60,"h":60}
+	},
+	"grass.png": {
+		"frame": {"x":991, "y":178, "w":177, "h":177},
+		"spriteSourceSize": {"x":0,"y":0,"w":177,"h":177},
+		"sourceSize": {"w":177,"h":177}
+	},
+	"infoRect.png": {
+		"frame": {"x":0, "y":991, "w":652, "h":190},
+		"spriteSourceSize": {"x":0,"y":0,"w":652,"h":190},
+		"sourceSize": {"w":652,"h":190}
+	},
+	"loading_bar.png": {
+		"frame": {"x":0, "y":1239, "w":514, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":514,"h":41},
+		"sourceSize": {"w":514,"h":41}
+	},
+	"loading_bar_around.png": {
+		"frame": {"x":0, "y":1182, "w":530, "h":56},
+		"spriteSourceSize": {"x":0,"y":0,"w":530,"h":56},
+		"sourceSize": {"w":530,"h":56}
+	},
+	"snow_shot.png": {
+		"frame": {"x":164, "y":1281, "w":74, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":74,"h":76},
+		"sourceSize": {"w":74,"h":76}
+	},
+	"t1_ground.png": {
+		"frame": {"x":991, "y":489, "w":145, "h":136},
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":136},
+		"sourceSize": {"w":145,"h":136}
+	},
+	"t2_ground.png": {
+		"frame": {"x":991, "y":626, "w":145, "h":136},
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":136},
+		"sourceSize": {"w":145,"h":136}
+	},
+	"t3_ground.png": {
+		"frame": {"x":991, "y":356, "w":145, "h":132},
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":132},
+		"sourceSize": {"w":145,"h":132}
+	}
+
+},
+"meta": {
+	"image": "sprites2x.png",
+	"size": {"w": 1169, "h": 1392},
+	"scale": "1"
+}
+}
