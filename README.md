@@ -1,5 +1,5 @@
 # JackDanger-Odd-Tower-Defense
-Gppcc8 Einreichung
+Gppc8 Einreichung
 
 Um das Spiel spielen zu können, brauch man einen Server. 
 
